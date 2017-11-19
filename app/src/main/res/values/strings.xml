@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MCC Login</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name ="loginHint">Enter a user name</string>
+    <string name="LoginButtonTxt">Login</string>
+</resources>
